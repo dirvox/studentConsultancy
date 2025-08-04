@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+    @apply w-max rounded-xl bg-primary px-4 py-3 text-sm font-semibold text-white text-center shadow-xl hover:bg-opacity-90
+    focus:bg-primary-hover duration-300 transition-colors
+}
+
+.title {
+    @apply text-3xl font-semibold md:font-bold tracking-tight sm:text-4xl text-primary leading-10
+}
+
+.subdesc {
+    @apply text-sm md:text-base lg:text-lg text-gray-700 font-medium
+}
+
+.text {
+    @apply text-justify text-sm md:text-base text-gray-700 leading-6 md:leading-7
+}
+
+/* .btn-secondary{
+    @apply w-max flex rounded-xl transition bg-gray-100/70 px-4 py-3 text-sm font-semibold text-center text-gray-600 items-center gap-1.5 
+    hover:bg-gray-200 focus:bg-gray-200
+} */
+
+
+.input-field {
+    @apply w-full p-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-purple-400 transition;
+  }
+
+  .bg-primary{
+    background-color: #8E4AAA !important;
+  }
+
+  .btn-primary{
+    background-color: #8E4AAA !important;
+    border: #8E4AAA !important;
+  }
+
+  .btn-outline-primary{
+    border: #8E4AAA !important;
+    color: black !important;
+  }
+  
+  .text-primary{
+    color: black !important;
+  }
+
+@media (min-width: 960px) {
+    .lg\:max-w-screen-xl {
+      max-width: 1440px !important;
+    }
+  }
+  
+  @media (max-width : 768px){
+    .responsive-height{
+        height: 200px !important;
+    }
+
+
+    .top-div-height{
+        height: 550px !important;
+        /* opacity: 0.1 !important; */
+    }
+
+    .opacity-40{
+        opacity: 0.1 !important;
+    }
+
+    .bg-black{
+        background-color: rgb(112, 70, 126) !important;
+    }
+
+    .text-white{
+        color: rgb(0, 0, 0) !important;
+    }
+
+
+    .phone-view-height{
+      height: 7rem !important;
+      /* width: 108% !important; */
+    }
+    
+  }
+
+@tailwind utilities;
