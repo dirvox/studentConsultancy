@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8524d94.css",
+    "main.js": "/static/js/main.a2099f97.js",
+    "static/media/bgvideo2.mp4": "/static/media/bgvideo2.11e0ec0783c118a42d63.mp4",
+    "static/media/bannerimg5.png": "/static/media/bannerimg5.4ecb19a8a9997036dec3.png",
+    "static/media/signupimag2.png": "/static/media/signupimag2.06351268f3c25c9996ec.png",
+    "static/media/loginimg3.png": "/static/media/loginimg3.3bb3888a79efd2ed3692.png",
+    "static/media/hero.jpg": "/static/media/hero.84d70a494764d115c673.jpg",
+    "static/media/bgimg2.png": "/static/media/bgimg2.7e4d67c37d1a403213c7.png",
+    "static/media/bhaskar.png": "/static/media/bhaskar.b1d618d27f7f85a279bb.png",
+    "static/media/ekta.png": "/static/media/ekta.eb0f86ef0a6b98e2da30.png",
+    "static/media/j2.png": "/static/media/j2.54276b7dfea4e86510e9.png",
+    "static/media/j3.png": "/static/media/j3.6a816399d9cfb2f703b9.png",
+    "static/media/logo.png": "/static/media/logo.8eaa307554aad8af4c1c.png",
+    "static/media/aakash.jpg": "/static/media/aakash.6da80ce00d476e20e4ac.jpg",
+    "static/media/sumeet.jpg": "/static/media/sumeet.8f17b79133f35834e529.jpg",
+    "static/media/j1.jpg": "/static/media/j1.ebabc6f33ab59ca205e3.jpg",
+    "index.html": "/index.html",
+    "main.f8524d94.css.map": "/static/css/main.f8524d94.css.map",
+    "main.a2099f97.js.map": "/static/js/main.a2099f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8524d94.css",
+    "static/js/main.a2099f97.js"
+  ]
+}
